@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geology, University Lille1, 2011
+* M.S. in Planetary Science, University Paris VI, 2013
+* Ph.D in Astronomy and Astrophysics, University Nice Côte d'Azur, 2016
 
 Work experience
 ======
@@ -26,6 +26,12 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+
+
+* 2013/09 - 2016/10: Ph.D Student
+  * Lagrange and Meudon Laboratories
+  * Subject: [Study of the atmosphere of Venus with a refraction model when passing across the Sun the June, 5-6 2012](https://tel.archives-ouvertes.fr/tel-01477867)
   
 Skills
 ======
