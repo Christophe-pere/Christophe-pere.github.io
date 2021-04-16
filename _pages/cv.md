@@ -15,12 +15,15 @@ Education
 * M.S. in Planetary Science, University Paris VI, 2013
 * Ph.D in Astronomy and Astrophysics, University Nice Côte d'Azur, 2016
 
-Certification
+Certifications
 ======
-
+* Coursera: Machine Learning, 2020/07
+* Coursera: Deep Learning Specialization, 2020/08
+* Coursera: Tensorflow Certificate Specialization, 2020/08
+* Coursera: Generative Adversarial Networks Specialization, 2021/02
 * The Coding School-IBM: Introduction to Quantum Computing, 2020/09-2021/06
 
-Work experience
+Work experiences
 ======
 * <p style="color:#F87217">2019/09 - now: Chief Data Scientist / Research Scientist</p>
   * La Capitale, Montreal, QC, Canada
