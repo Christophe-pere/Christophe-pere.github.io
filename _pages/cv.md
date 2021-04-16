@@ -31,8 +31,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* 2017/07 - 2018/08: Lead Data Scientist 
+ 
+* <p style="color:#FF5733";>2017/07 - 2018/08: Lead Data Scientist</p> 
   * Autobiz, Sa
   * <i>Projects</i>:
   * Realization of statistical and predictive studies on car data, implementation of classification and regression algorithms for time series data establishment of a new database using AWS technologies implementation of treatment pipelines and data cleaning.
