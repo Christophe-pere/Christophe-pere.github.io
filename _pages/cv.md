@@ -35,10 +35,10 @@ Work experiences
 
 * <p style="color:#F87217">2018/08 - 2019/03: Lead Data Scientist / Research Scientist</p>
   * VEDECOM, Versailles, France
-  * Projects:
+  * <i>Projects</i>:
     * Exploit sensor data radar, lidar, video MOOVE Project to extract parameters for the autonomous vehicle Modulization of car’s behavior with deep learning algorithms to reproduce the trajectory and curvature pathway. Events and scenarios detections with machine learning algorithms ( ANN, Random Forest...) with Matlab and Python. Data Fusion and decision making with Bayesian Network.
     * Technical Lead in a European project. Orientation and technical choices in the global strategy of the project.
-  * Management:
+  * <i>Management</i>:
       * Management of a team composed of one data scientist, five engineers, one statistician, two technicians, and one Ph.D. student. Implementation of an agile methodology and a technical environment.
     
 * <p style="color:#F87217">2017/07 - 2018/08: Lead Data Scientist</p> 
