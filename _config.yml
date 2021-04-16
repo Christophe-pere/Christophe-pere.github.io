@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Christophe Pere"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm a researcher in AI and Astrophysics"
+  location         : "Montreal, QC, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
