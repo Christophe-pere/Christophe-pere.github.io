@@ -36,4 +36,4 @@ I'm working with the University of Laval and the University of Chicoutimi throug
 Interests
 ======
 
-I have also many interests in different fields like Reasoning, Reinforcement Learning, Graph theory, GNN, Knowledge Graph
+I have also many interests in different fields like Reasoning, Reinforcement Learning, Graph theory, GNN, Knowledge Graph, Source separation, Complex Neural Networks, Quaternion Neural Networks, Quantum Computing, Quantum Machine Learning, Neurosciences.
