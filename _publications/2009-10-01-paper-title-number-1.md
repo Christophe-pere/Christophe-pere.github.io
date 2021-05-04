@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A-SUPER-JUPITER-ORBITING-A-LATE-TYPE-STAR-A-REFINED-ANALYSIS-OF-MICROLENSING-EVENT-OGLE-2012-BLG-0406"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2014-01-27-A-SUPER-JUPITER-ORBITING-A-LATE-TYPE-STAR-A-REFINED-ANALYSIS-OF-MICROLENSING-EVENT-OGLE-2012-BLG-0406
+excerpt: 'This paper is about a super Jupiter orbiting a late type star (OGLE-2012-BLG-0406).'
+date: 2014-01-27
+venue: 'The Astrophysical Journal'
+paperurl: 'https://iopscience.iop.org/article/10.1088/0004-637X/782/1/48'
+citation: 'Tsapras, Y. (2014). &quot;A-SUPER-JUPITER-ORBITING-A-LATE-TYPE-STAR-A-REFINED-ANALYSIS-OF-MICROLENSING-EVENT-OGLE-2012-BLG-0406.&quot; <i>ApJ</i>. 782 48.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+TThis paper is about a super Jupiter orbiting a late type star (OGLE-2012-BLG-0406).
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.1088/0004-637X/782/1/48)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tsapras, Y. (2014). "A-SUPER-JUPITER-ORBITING-A-LATE-TYPE-STAR-A-REFINED-ANALYSIS-OF-MICROLENSING-EVENT-OGLE-2012-BLG-0406" <i>ApJ</i>. 782 48.
