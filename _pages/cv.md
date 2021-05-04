@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geology, University Lille1, 2011
-* M.S. in Planetary Science, University Paris VI, 2013
+* B.S. in Geology and Theoritical Physics, University Lille1, 2011
+* M.S. in Theoritical Chemistry and Planetary Science, University Paris VI, 2013
 * Ph.D in Astronomy and Astrophysics, University Nice Côte d'Azur, 2016
 
 Certifications
@@ -21,7 +21,7 @@ Certifications
 * Coursera: Deep Learning Specialization, 2020/08
 * Coursera: Tensorflow Certificate Specialization, 2020/08
 * Coursera: Generative Adversarial Networks Specialization, 2021/02
-* The Coding School-IBM: Introduction to Quantum Computing, 2020/09-2021/06
+* The Coding School-IBM: Introduction to Quantum Computing, 2020/09-2021/05
 
 Work experiences
 ======
@@ -60,12 +60,18 @@ Work experiences
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Deep Learning
+* Research
+* Visualization
+* Data Science
+* Data Analysis
+* Data Mining
+* Python
+* Keras
+* Numpy
+* Pandas
+
 
 Publications
 ======
@@ -85,6 +91,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
