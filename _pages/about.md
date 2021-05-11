@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
 ======
 
 I am a chief data scientist and also a researcher in the field of artificial intelligence. My journey begins with an atypical background in science. I have a PhD in astrophysics in which I studied the atmosphere of Venus in the case of an exoplanet in order to help characterize the atmospheres of exoplanets. Why AI in this case? I used data processing and data mining methods during my PhD which allowed me to become a data scientist and to learn machine and deep learning methods.
