@@ -21,12 +21,13 @@ Research axis
 ======
 
 My main areas of research are:
-- NLP with Representation Learning to extract informations and knowledges
+- Deep Learning
 - Causality and uncertainty propagation
 - Astrophysics: 
     - Detection of exoplanets and caracterization of their atmosphere.  
     - Stellar Spots and their impact on lightcurves
     - Stellar activity and the impact on the exoplanet parameters
+- Quantum Computing - started recently with a focus on QML
 
 I'm working with the University of Laval and the University of Chicoutimi through a partnership on three major axes:
 - Data mining and data generation
@@ -36,4 +37,4 @@ I'm working with the University of Laval and the University of Chicoutimi throug
 Interests
 ======
 
-I have also many interests in different fields like Reasoning, Reinforcement Learning, Graph theory, GNN, Knowledge Graph, Source separation, Complex Neural Networks, Quaternion Neural Networks, Hopfield Network, Quantum Computing, Quantum Machine Learning, Neurosciences.
+I have also many interests in different fields like Reasoning, Reinforcement Learning, Graph theory, GNN, Knowledge Graph, Source separation, Complex Neural Networks, Quaternion Neural Networks, Hopfield Network, Quantum Computing, Neurosciences.
