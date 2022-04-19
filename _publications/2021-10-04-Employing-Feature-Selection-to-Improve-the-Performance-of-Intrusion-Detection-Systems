@@ -1,0 +1,15 @@
+---
+title: "Employing Feature Selection to Improve the Performance of Intrusion Detection Systems"
+collection: publications
+permalink: /publication/2021-10-04-Employing-Feature-Selection-to-Improve-the-Performance-of-Intrusion-Detection-Systems
+excerpt: 'This paper shows the importance of feature selection to improve the precision of classification models and the inference time in a context of cybersecurity data.'
+date: 2021-10-04
+venue: 'The 14th International Symposium on Foundations \& Practice of Security'
+paperurl: 'https://www.fps-2021.com/cfp/fps-2021-accepted-papers/'
+citation: 'Avila, Ricardo and Khoury, Raphaël and Pere, Christophe and Khanmohammadi, Kobra (2021). &quot;Employing Feature Selection to Improve the Performance of Intrusion Detection Systems.&quot; <i>The 14th International Symposium on Foundations \& Practice of Security</i>.'
+---
+This paper shows the importance of feature selection to improve the precision of classification models and the inference time in a context of cybersecurity data.
+
+[Download paper here](https://www.fps-2021.com/cfp/fps-2021-accepted-papers/)
+
+Recommended citation: Avila, R., Khoury, R., Pere, C. & Khanmohammadi, K. (2021). Employing Feature Selection to Improve the Performance of Intrusion Detection Systems. <i>The 14th International Symposium on Foundations \& Practice of Security</i>. 
