@@ -22,16 +22,28 @@ Certifications
 * Coursera: Tensorflow Certificate Specialization, 2020/08
 * Coursera: Generative Adversarial Networks Specialization, 2021/02
 * The Coding School-IBM: Introduction to Quantum Computing, 2020/09-2021/05
+* IBM Quantum Challenge 2021 Achievement - FoundationalIBM Quantum Challenge 2021 Achievement - Foundational, 2021/06
+* IBM Global Summer School (QML), 2021/07
+* QBronze, QWorld, 2021/08
+* IBM Quantum Challenge Africa 2021 Achievement Advanced, 2021/09
+* IBM Quantum Challenge - Fall 2021 - Advanced, 2021/11
+* IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X, 2022/01
 
 Work experiences
 ======
-* <p style="color:#F87217">2019/09 - now: Chief Data Scientist / Research Scientist</p>
-  * <b>La Capitale</b>, Montreal, QC, Canada
-  * Leading research in NLP and Representation learning.  
 
-* <p style="color:#F87217">2019/03 - 2019/09: Independent Researcher</p>
-  * <b>Self</b>, Ennery, France
-  * Research aim in the field of NLP using insurance data in order to predict vehicle losses. Exploration of different machine learning methods and deep learning methods. 
+* <p style="color:#F87217">2022/03 - now: Associate Professor</p>
+  * <b>University Laval</b>, Quebec, QC, Canada
+  * Leading research in NLP and Representation learning. Developping research projects on reinforcement learning and GNN. 
+  * Students supervision. 
+
+* <p style="color:#F87217">2021/09 - now: Member partnair / Research Scientist</p>
+  * <b>INTRIQ</b>, Montreal, QC, Canada
+  * Leading research in QML. The objective is to find a quantum advantage and develop new quantum algorithms to solve real-world complex projects.  
+
+* <p style="color:#F87217">2019/03 - now: Senior Data Scientist / Research Scientist</p>
+  * <b>Beneva</b>, Montreal, QC, Canada
+  * Leading research in NLP and Representation learning.  
 
 * <p style="color:#F87217">2018/08 - 2019/03: Lead Data Scientist / Research Scientist</p>
   * <b>VEDECOM</b>, Versailles, France
@@ -76,11 +88,11 @@ Learning
 ========
 * Quantum Computing
 * Quantum information
-* Quantum Algebra
+* Quantum Machine Learning
+* GNN
+* Reinforcement Learning and Multi-agent RL
 * Qiskit
 * Pennylane
-* Tensorflow-Quantum
-* QML
 
 Publications
 ======
