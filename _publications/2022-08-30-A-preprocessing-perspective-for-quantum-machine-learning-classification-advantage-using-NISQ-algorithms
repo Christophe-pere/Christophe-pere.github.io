@@ -1,0 +1,15 @@
+---
+title: "A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms"
+collection: publications
+permalink: /publication/2022-08-30-A-preprocessing-perspective-for-quantum-machine-learning-classification-advantage-using-NISQ-algorithms
+excerpt: 'We demonstrate that the classical and quantum encoding of classical data can have a practical effect in the industry for QML methods. We compare for two datasets (real-world datasets) that QML algorithms can have an advantage compare to classical ML methods.'
+date: 2022-08-30
+venue: 'ArXiv'
+paperurl: 'https://arxiv.org/abs/2208.13251'
+citation: 'Mancilla, Javier and Pere, Christophe (2022). &quot;A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms.&quot; <i>arXiv</i>.'
+---
+We demonstrate that the classical and quantum encoding of classical data can have a practical effect in the industry for QML methods. We compare for two datasets (real-world datasets) that QML algorithms can have an advantage compare to classical ML methods.
+
+[Download paper here](https://arxiv.org/abs/2208.13251)
+
+Recommended citation: Mancilla, Javier and Pere, Christophe (2022). &quot;A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms.&quot; <i>arXiv</i>.
